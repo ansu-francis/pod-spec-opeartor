@@ -1,0 +1,10 @@
+apiVersion: example.example.com/v1
+kind: PodSpec
+metadata:
+  name: example-pod
+  namespace: podspec-operator-system
+spec:
+  name: my-pod
+  namespace: podspec-operator-system
+  image: nginx
+
