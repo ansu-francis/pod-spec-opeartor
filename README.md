@@ -1,4 +1,5 @@
 # podspec-operator
+This is sample k8s operator to created pod based on crd def.
 1. Install go 1.21
 2. Install operator-sdk compatible with go
     https://sdk.operatorframework.io/docs/building-operators/golang/installation/
