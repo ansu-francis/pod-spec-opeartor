@@ -10,11 +10,11 @@
     input fields
     Status fields
 8. make generate
-9. make manifest
+9. make manifests
 10. Update internal/controller/podspec_controller.go
     Reconciler function to create the pod
     Annotation to create the role with pod create permission
-11. make manifest
+11. make manifests
 12. make docker-build docker-push
 13. make deploy
 14. Create sample crd
